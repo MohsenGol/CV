@@ -42,10 +42,10 @@
   visibility: hidden;
 }
 .visible-phone {
-  display: none !important;
+  display: inherit !important;
 }
 .visible-tablet {
-  display: none !important;
+  display: inherit !important;
 }
 .hidden-desktop {
   display: none !important;
