@@ -60,6 +60,9 @@
   .visible-desktop {
     display: none !important ;
   }
+  .visible-phone {
+    display: inherit !important;
+  }
   .visible-tablet {
     display: inherit !important;
   }
