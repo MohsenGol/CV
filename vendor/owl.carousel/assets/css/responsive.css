@@ -35,7 +35,7 @@
   box-sizing: border-box;
 }
 @-ms-viewport {
-  width: auto;
+  width: device-width;
 }
 .hidden {
   display: none;
@@ -58,7 +58,7 @@
     display: inherit !important;
   }
   .visible-desktop {
-    display: none !important ;
+    display: inherit !important ;
   }
   .visible-phone {
     display: inherit !important;
