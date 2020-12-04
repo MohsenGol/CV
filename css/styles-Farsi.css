@@ -504,21 +504,23 @@ iframe {
 /* ==========================================================
 ! 07. SECTION: Main Menu
 ========================================================== */
-.section-language a{
+/*.section-language a{*/
+.section-language li a {
   float: right;
-  width: 10%;
+  width: 15%;
   top: 0;
   list-style-type: none;
   overflow: hidden;
   background-color: #08aeac;
   color: #ffffff;
   padding-right: 10px;
-  margin-top: 46px;
+  margin-top: 0px;
   text-align: center;
   text-decoration: none;
   font-weight: bold;
 }
-.section-language li a:hover{
+/*.section-language li a:hover{*/
+.link-language li a :hover {
   background-color: #021533;
 }
 .main-menu {
@@ -527,7 +529,7 @@ iframe {
   top: 0;
   right: 15%;
   padding-right: 10px;
-  margin-top: 46px;
+  margin-top: 76px;
   -webkit-transition: all 0.6s ease-in-out;
   -moz-transition: all 0.6s ease-in-out;
   transition: all 0.6s ease-in-out;
