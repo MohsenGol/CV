@@ -521,8 +521,11 @@ iframe {
   /*transition: all 0.3s ease-in-out;*/
 }
 /*.section-language li a:hover {*/
-.link-language li a :hover {
+.section-language li :hover {
   background-color:#021533;
+}
+.section-language {
+  list-style-type: none;
 }
 
 .main-menu {
