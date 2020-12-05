@@ -999,6 +999,7 @@ iframe {
   position: relative;
   height: 25px;
   margin-bottom: 10px;
+  background-color: #b7b2b2;
 }
 .progress > .progress-type {
   position: absolute;
